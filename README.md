@@ -142,10 +142,18 @@ GitHub: https://github.com/Dj7517
 ## License
 
 This project is developed for educational and portfolio purposes.
-<img width="784" height="1168" alt="w1tjk" src="https://github.com/user-attachments/assets/4d89ea26-6a69-4dbf-88a6-d27c068b3b8f" />
-<img width="1168" height="784" alt="mqy27" src="https://github.com/user-attachments/assets/26cb5e42-d8bd-42da-837d-a7e320ad3d1a" />
-<img width="1168" height="784" alt="5sJwP" src="https://github.com/user-attachments/assets/5dd48409-835c-4be1-88fd-58e57670a1ba" />
-<img width="784" height="1168" alt="MPibe" src="https://github.com/user-attachments/assets/a5a3f74e-ea95-478d-b156-782b63727ef2" />
+
+<img width="784" height="1029" alt="image" src="https://github.com/user-attachments/assets/3f511a69-b359-4128-8522-064fdf08a44d" />
+
+<img width="1168" height="719" alt="image" src="https://github.com/user-attachments/assets/9f5140ae-918d-4f21-a4e7-0a03f7a24816" />
+
+<img width="1168" height="707" alt="image" src="https://github.com/user-attachments/assets/2a14ec68-0662-4b79-b925-7248abdc32a3" />
+
+<img width="784" height="1124" alt="image" src="https://github.com/user-attachments/assets/fbe1c8b1-ba35-4174-af89-bb980e37622e" />
+
+
+
+
 
 
 
