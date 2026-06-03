@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f4f4f4; }
+nav { background: #333; padding: 15px; color: white; }
+nav a { color: white; margin: 0 15px; text-decoration: none; }
+.container { max-width: 1200px; margin: auto; background: white; padding: 20px; border-radius: 8px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 10px; border: 1px solid #ddd; }
+th { background: #f0f0f0; }
+form input, form select { width: 100%; padding: 8px; margin: 5px 0; }
